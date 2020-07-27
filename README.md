@@ -1,5 +1,9 @@
 # NewRepo
 First edit
+Branch1
 automatic pr
 pr2
-PR3
+Second Edit
+Third Edit
+Fourth edit
+master
